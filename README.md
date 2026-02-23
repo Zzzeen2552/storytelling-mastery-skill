@@ -8,6 +8,11 @@ Master-level storytelling skill distilled from **6 of the greatest storytelling 
 
 ## The Masters Roster
 
+StoryMaster is an AI skill that fuses the methodology of six of the greatest storytelling masters who ever lived into one unified,
+actionable system.
+
+---
+
 | Master | Era | Signature Strength | Known For |
 |---|---|---|---|
 | **Aristotle** | Ancient | The original theory of story | *Poetics* — the founding text of narrative theory |
@@ -17,28 +22,14 @@ Master-level storytelling skill distilled from **6 of the greatest storytelling 
 | **Donald Miller** | Contemporary | StoryBrand framework | 1M+ copies, used by TREK, TOMS, The Economist |
 | **Pixar / Emma Coats** | Contemporary | Story Spine + 22 rules | *Toy Story*, *Up*, *Finding Nemo* |
 
----
+# StoryMaster Skill
+### 7-Pillar Storytelling Framework Built from the Greatest Story Minds in History
 
-## The 7 Key Pillars
+Distilled into 7 KEY PILLARS — covering every dimension of world-class storytelling: from hero and disruption, through conflict
+and structure, to transformation, emotional truth, and the craftof showing versus telling.
 
-1. **The Hero** — Character is the engine
-2. **The Disruption** — The inciting incident
-3. **Conflict as the Engine** — The obstacle machine
-4. **Structure as Spine** — The architecture of story
-5. **Transformation** — The arc of change
-6. **Emotional Truth** — The resonance layer
-7. **Show, Don't Tell** — Specificity & demonstration
-
----
-
-## Quick Reference
-
-### Story Formulas
-- **Hero's Journey** — 12 stages from ordinary world to return with elixir
-- **Story Spine (Pixar)** — Once upon... Every day... Until one day... Because... Until finally... Ever since...
-- **SB7 Framework (Miller)** — Character → Problem → Guide → Plan → CTA → Stakes → Success
-- **3-Act Structure (McKee)** — Setup → Confrontation → Resolution
-- **Man in a Hole (Vonnegut)** — Fall into trouble, claw back out
+Use this skill to craft stories for any format or purpose — brand narratives, personal essays, keynote speeches, scripts, case studies,
+social content, pitches, or creative writing — that don't just inform an audience. They move them.
 
 ---
 
@@ -55,17 +46,7 @@ This skill is automatically loaded when you need help with:
 - Any communication that needs to move an audience
 
 ---
-
-## The 7 Golden Rules
-
-> **1.** Story lives or dies in the protagonist. Know your hero before anything else.
-> **2.** Nothing begins until something is disrupted. Start there — not before.
-> **3.** Conflict is not decoration. It is the engine. Remove it and there is no story.
-> **4.** Know your structure before you write. A story without a spine is a puddle.
-> **5.** If nothing changes, nothing has been said. Transformation is the point.
-> **6.** Write from emotional truth. Technique without feeling is carpentry without purpose.
-> **7.** Show what characters do under pressure. Pressure reveals. Description only decorates.
-
+Skill type: Storytelling × Narrative Structure × Emotional Craft
 ---
 
 ## Installation (OpenClaw)
@@ -93,4 +74,4 @@ rm -rf storytelling-mastery/storytelling-mastery
 
 ## License
 
-Made with ❤️ for the agency.
+Made with ❤️ for the people.
